@@ -1,4 +1,4 @@
-FROM earthquakesan/ant:1.9.6
+FROM earthquakesan/ant:1.9.7
 MAINTAINER Ivan Ermilov <ivan.s.ermilov@gmail.com>
 
 RUN apt-get update
